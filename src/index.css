@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  /* width: calc(100% - 280px); */
+  width: 80%;
+  margin: 0 auto;
+}
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none;
+}
+@media screen and (max-width: 778px) {
+  .container{
+    width: 90%;
+  }
+}

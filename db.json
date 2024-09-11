@@ -1,0 +1,77 @@
+{
+  "navbar": [
+    {
+      "id": "1",
+      "name": "Services"
+    },
+    {
+      "id": "2",
+      "name": "Blogs"
+    },
+    {
+      "id": "3",
+      "name": "Project"
+    },
+    {
+      "id": "4",
+      "name": "Contact Us"
+    },
+    {
+      "id": "5",
+      "name": "About Us"
+    }
+  ],
+  "slider": [
+    {
+      "id": "1",
+      "small_text": "test1",
+      "long_text": "test tst etststadasdfa",
+      "btn_name": "btn name",
+      "btn_link": "https://google.az",
+      "picture": "./home_picture.png"
+    },
+    {
+      "id": "2",
+      "small_text": "test 2",
+      "long_text": "test tst etststadasdfa 2ew3w4e",
+      "btn_name": "btn name",
+      "btn_link": "https://google.az",
+      "picture": "./home_picture.png"
+    },
+    {
+      "id": "3",
+      "small_text": "test 2",
+      "long_text": "test tst etststadasdfa 2ew3w4e",
+      "btn_name": "btn name",
+      "btn_link": "https://google.az",
+      "picture": "./home_picture.png"
+    },
+    {
+      "id": "4",
+      "small_text": "test 2",
+      "long_text": "test tst etststadasdfa 2ew3w4e",
+      "btn_name": "btn name",
+      "btn_link": "https://google.az",
+      "picture": "./home_picture.png"
+    }
+  ],
+  "home": [
+    {
+      "id": "1",
+      "small_text": "EMS Contracting",
+      "long_text": "Delivering first-class commercial maintenance nationwide 24/7",
+      "btn_value": "Make An Enquiry",
+      "btn_link": "https://google.az",
+      "img": "https://st3.depositphotos.com/1192060/33501/i/450/depositphotos_335015340-stock-photo-young-man-cleaning-air-conditioning.jpg"
+    }  
+  ],
+  "contarcting": [
+    {
+      "id":"1",
+      "img":"https://i.imgur.com/yG9IeQs.png",
+      "value": "About Us",
+      "small_text": "Welcome to EMS Contracting",
+      "long_text": "EMS Contracting, founded in 2013 by Mick Donkin and Kris Armstrong then later joined by key director Daryl Shepherd, incorporates 3 divisions - Metering, Renewables and Recycling."
+    }
+  ]
+}
